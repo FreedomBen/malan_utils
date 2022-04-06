@@ -1,0 +1,4 @@
+%{
+  "comeonin": {:hex, :comeonin, "5.3.3", "2c564dac95a35650e9b6acfe6d2952083d8a08e4a89b93a481acb552b325892e", [:mix], [], "hexpm", "3e38c9c2cb080828116597ca8807bb482618a315bfafd98c90bc22a821cc84df"},
+  "pbkdf2_elixir": {:hex, :pbkdf2_elixir, "1.4.2", "776bed93d0b459713c287b4a90baa7bd92b2c70ddf50d98ded5c3edd335e9131", [:mix], [{:comeonin, "~> 5.3", [hex: :comeonin, repo: "hexpm", optional: false]}], "hexpm", "5c8201d8ae29652050119e3f98956dcbfe9ef0084f86985737d0d74d868f17d9"},
+}
