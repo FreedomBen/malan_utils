@@ -167,7 +167,7 @@ defmodule MalanUtils do
 
   """
   def uuidgen(),
-  do: bingenerate() |> encode()
+    do: bingenerate() |> encode()
 
   @doc ~S"""
   Quick regex check to see if the supplied `string` is a valid UUID
